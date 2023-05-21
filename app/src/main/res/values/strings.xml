@@ -1,0 +1,42 @@
+<resources>
+    <string name="app_name">LUAS PERSEGI PANJANG</string>
+
+    <string name="bmi_intro">BMI, atau Body Mass Index merupakan cara untuk
+menentukan apakah berat badanmu ideal atau tidak. Cobalah sekarang!</string>
+    <string name="panjang_sisi">PANJANG</string>
+    <string name="lebar_sisi">LEBAR</string>
+    <string name="jenis_kelamin">Jenis kelamin</string>
+    <string name="pria">Pria</string>
+    <string name="wanita">Wanita</string>
+    <string name="hitung">Hitung</string>
+
+    <string name="bmi_x">Luas: %1$.2f</string>
+    <string name="besar">BESAR</string>
+    <string name="kecil">KECIL</string>
+    <string name="kategori_x">Kategori: %1$s</string>
+
+    <string name="panjang_invalid">Panjang tidak boleh kosong.</string>
+    <string name="lebar_invalid">Lebar tidak boleh kosong.</string>
+
+
+    <string name="judul_besar">Luas PP Besar</string>
+    <string name="judul_kecil">Luas PP Kecil</string>
+
+    <string name="saran_besar">Cobalah untuk melakukan perkalian yang hasilnya kurang dari 100</string>
+    <string name="saran_kecil">Cobalah untuk melakukan perkalian yang hasilnya lebih dari 100</string>
+
+    <string name="lihat_saran">Lihat Saran</string>
+
+    <string name="tentang_aplikasi">Tentang Aplikasi</string>
+    <string name="copyright">Aplikasi untuk menghitung luas persegi panjang adalah salah satu aplikasi sederhana yang digunakan untuk menghitung luas bidang persegi panjang..</string>
+    <string name="belum_ada_data">Belum ada data</string>
+
+    <string name="hasil_x">LUAS: %1$.2f - %2$s</string>
+    <string name="data_x">PANJANG: %1$.1f - LEBAR: %2$.1f - %3$s</string>
+
+    <string name="hapus_histori">Hapus Histori</string>
+
+    <string name="konfirmasi_hapus">Hapus semua histori?</string>
+    <string name="hapus">Hapus</string>
+    <string name="batal">Batal</string>
+</resources>
